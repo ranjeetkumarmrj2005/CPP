@@ -37,6 +37,10 @@ int main(){
     mp["Harsh"]=47;
     mp["Sohan"]=40;
     mp["Rohan"]=50;
+
+    cout<<mp["Harsh"];
+    cout<<endl;
+
  
     for(auto p:mp){
         cout<<p.first<<" "<<p.second<<endl;
