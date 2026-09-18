@@ -8,8 +8,8 @@ int main(){
     mp[1]=10;
     mp[3]=30;
     mp[2]=20;
-    for(auto x: mp){
-        cout<<x.first<<" "<<x.second<<endl;
+    for(auto var: mp){
+        cout<<var.first<<" "<<var.second<<endl;
     }
     return 0;
 } 
