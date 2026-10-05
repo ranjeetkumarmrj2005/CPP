@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 class Cricketer {
 public:
     string country;

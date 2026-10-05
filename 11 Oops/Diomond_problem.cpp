@@ -19,7 +19,7 @@ private:
     int b_ka_private;
 
 };
-clss C:A{
+class C:A{
 public:
 public:
     int c_ka_public;
